@@ -1,5 +1,5 @@
+<p align="center"><img src="img/plateplan_logo.png" width="250">&nbsp<img src="img/jensenlab_logo.png" width="250"></p>
 
-![PlatePlan Logo](img/plateplan_logo.png | width=250)
 # Welcome to PlatePlan
 PlatePlan is meant to be the bridge between your hypotheses and results. In order to make that jump, a lot goes into the logistics and planning out an experiment, from how many multi-well plates to use and where to dispense each reagent, to which reagents to batch together and how much volume to dispense. This logistics are especially challenging in the case of high-throughput assays where you may have tens of thousands of experiments to manage and keep track of. 
 
