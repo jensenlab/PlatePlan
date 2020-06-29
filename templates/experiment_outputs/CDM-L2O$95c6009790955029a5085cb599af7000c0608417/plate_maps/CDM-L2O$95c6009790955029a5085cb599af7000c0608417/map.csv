@@ -1,0 +1,865 @@
+parent_plate,parent_well_index,parent_well,solution_id,replicate,plate_control,plate_blank,strain,environment
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,1,A1,CDM -- l_glutamic_acid_75x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,2,A2,CDM -- l_threonine_100x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,3,A3,CDM -- l_glutamine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,4,A4,CDM -- l_phenylalanine_100x -- l_isoleucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,5,A5,CDM -- l_tryptophan_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,6,A6,CDM -- l_tyrosine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,7,A7,CDM -- l_cysteine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,8,A8,CDM -- l_asparagine_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,9,A9,CDM -- glycine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,10,A10,CDM -- l_asparagine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,11,A11,CDM -- prolines_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,12,A12,CDM -- l_leucine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,13,A13,CDM -- prolines_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,14,A14,CDM -- l_threonine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,15,A15,CDM -- l_isoleucine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,16,A16,CDM -- l_phenylalanine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,17,A17,CDM -- dl_alanine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,18,A18,CDM -- l_glutamic_acid_75x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,19,A19,CDM -- l_glutamic_acid_75x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,20,A20,CDM -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,21,A21,CDM -- l_lysine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,22,A22,CDM -- l_phenylalanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,23,A23,CDM -- l_tryptophan_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,24,A24,CDM -- l_cysteine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,25,B1,CDM -- prolines_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,26,B2,CDM -- l_phenylalanine_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,27,B3,CDM -- l_arginine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,28,B4,CDM -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,29,B5,CDM -- prolines_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,30,B6,CDM -- prolines_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,31,B7,CDM -- l_phenylalanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,32,B8,CDM -- l_serine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,33,B9,CDM -- l_phenylalanine_100x -- l_isoleucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,34,B10,CDM -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,35,B11,CDM -- glycine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,36,B12,CDM -- l_tyrosine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,37,B13,CDM -- l_glutamic_acid_75x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,38,B14,CDM -- l_cysteine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,39,B15,CDM -- l_serine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,40,B16,CDM -- l_cysteine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,41,B17,CDM -- l_serine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,42,B18,CDM -- glycine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,43,B19,CDM -- l_threonine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,44,B20,CDM -- l_cysteine_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,45,B21,CDM -- l_asparagine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,46,B22,CDM -- l_tryptophan_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,47,B23,CDM -- l_arginine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,48,B24,CDM -- glycine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,49,C1,CDM -- l_methionine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,50,C2,CDM -- l_histidine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,51,C3,CDM -- l_histidine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,52,C4,CDM -- l_glutamic_acid_75x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,53,C5,CDM -- l_arginine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,54,C6,CDM -- l_serine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,55,C7,CDM -- l_serine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,56,C8,CDM -- l_tryptophan_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,57,C9,CDM -- l_tryptophan_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,58,C10,CDM -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,59,C11,CDM -- l_cysteine_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,60,C12,CDM -- l_tyrosine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,61,C13,CDM -- l_arginine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,62,C14,CDM -- l_asparagine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,63,C15,CDM -- l_tyrosine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,64,C16,CDM -- l_tryptophan_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,65,C17,CDM -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,66,C18,CDM -- l_asparagine_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,67,C19,CDM -- l_phenylalanine_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,68,C20,CDM -- l_glutamic_acid_75x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,69,C21,CDM -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,70,C22,CDM -- l_lysine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,71,C23,CDM -- l_threonine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,72,C24,CDM -- l_valine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,73,D1,CDM -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,74,D2,CDM -- l_isoleucine_100x -- l_threonine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,75,D3,CDM -- l_isoleucine_100x -- l_threonine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,76,D4,CDM -- prolines_100x -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,77,D5,CDM -- prolines_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,78,D6,CDM -- prolines_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,79,D7,CDM -- l_serine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,80,D8,CDM -- l_histidine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,81,D9,CDM -- l_asparagine_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,82,D10,CDM -- l_phenylalanine_100x -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,83,D11,CDM -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,84,D12,CDM -- l_phenylalanine_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,85,D13,CDM -- l_cysteine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,86,D14,CDM -- l_arginine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,87,D15,CDM -- l_tryptophan_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,88,D16,CDM -- dl_alanine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,89,D17,CDM -- l_lysine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,90,D18,CDM -- l_cysteine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,91,D19,CDM -- l_isoleucine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,92,D20,CDM -- l_leucine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,93,D21,CDM -- glycine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,94,D22,CDM -- l_cysteine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,95,D23,CDM -- l_isoleucine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,96,D24,CDM -- l_tyrosine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,97,E1,CDM -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,98,E2,CDM -- l_leucine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,99,E3,CDM -- l_tyrosine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,100,E4,CDM -- l_glutamine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,101,E5,CDM -- l_leucine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,102,E6,CDM -- l_methionine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,103,E7,CDM -- l_phenylalanine_100x -- prolines_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,104,E8,CDM -- l_asparagine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,105,E9,CDM -- l_methionine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,106,E10,CDM -- l_cysteine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,107,E11,CDM -- l_glutamic_acid_75x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,108,E12,CDM -- l_phenylalanine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,109,E13,CDM -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,110,E14,CDM -- l_phenylalanine_100x -- l_isoleucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,111,E15,CDM -- l_threonine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,112,E16,CDM,1,True,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,113,E17,CDM -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,114,E18,CDM -- prolines_100x -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,115,E19,CDM,3,False,True,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,116,E20,CDM -- l_arginine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,117,E21,CDM -- glycine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,118,E22,CDM -- glycine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,119,E23,CDM -- l_glutamic_acid_75x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,120,E24,CDM -- l_serine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,121,F1,CDM -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,122,F2,CDM -- l_threonine_100x -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,123,F3,CDM -- l_phenylalanine_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,124,F4,CDM -- l_glutamic_acid_75x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,125,F5,CDM -- l_arginine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,126,F6,CDM -- l_phenylalanine_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,127,F7,CDM -- l_tyrosine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,128,F8,CDM -- l_asparagine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,129,F9,CDM -- l_leucine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,130,F10,CDM -- prolines_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,131,F11,CDM -- l_asparagine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,132,F12,CDM -- l_glutamic_acid_75x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,133,F13,CDM -- l_methionine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,134,F14,CDM -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,135,F15,CDM -- l_threonine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,136,F16,CDM -- glycine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,137,F17,CDM -- l_arginine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,138,F18,CDM -- l_glutamic_acid_75x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,139,F19,CDM -- prolines_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,140,F20,CDM -- prolines_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,141,F21,CDM -- glycine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,142,F22,CDM -- l_leucine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,143,F23,CDM -- l_leucine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,144,F24,CDM -- l_phenylalanine_100x -- prolines_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,145,G1,CDM -- l_arginine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,146,G2,CDM,4,False,True,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,147,G3,CDM -- dl_alanine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,148,G4,CDM -- l_threonine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,149,G5,CDM -- l_serine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,150,G6,CDM -- l_leucine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,151,G7,CDM -- l_serine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,152,G8,CDM -- l_phenylalanine_100x -- prolines_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,153,G9,CDM -- l_tryptophan_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,154,G10,CDM -- l_phenylalanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,155,G11,CDM -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,156,G12,CDM -- l_isoleucine_100x -- l_threonine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,157,G13,CDM -- l_leucine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,158,G14,CDM -- l_isoleucine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,159,G15,CDM -- prolines_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,160,G16,CDM -- glycine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,161,G17,CDM -- l_threonine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,162,G18,CDM -- l_valine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,163,G19,CDM -- prolines_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,164,G20,CDM -- l_methionine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,165,G21,CDM -- l_glutamic_acid_75x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,166,G22,CDM -- l_cysteine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,167,G23,CDM -- l_threonine_100x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,168,G24,CDM -- l_glutamic_acid_75x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,169,H1,CDM -- l_glutamic_acid_75x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,170,H2,CDM -- l_tryptophan_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,171,H3,CDM -- l_isoleucine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,172,H4,CDM -- l_cysteine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,173,H5,CDM -- l_tryptophan_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,174,H6,CDM -- l_phenylalanine_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,175,H7,CDM -- l_glutamine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,176,H8,CDM -- l_asparagine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,177,H9,CDM -- l_tryptophan_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,178,H10,CDM -- l_glutamic_acid_75x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,179,H11,CDM -- l_tryptophan_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,180,H12,CDM,2,False,True,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,181,H13,CDM -- l_cysteine_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,182,H14,CDM -- l_isoleucine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,183,H15,CDM -- l_glutamic_acid_75x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,184,H16,CDM -- prolines_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,185,H17,CDM -- l_isoleucine_100x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,186,H18,CDM -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,187,H19,CDM -- l_tryptophan_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,188,H20,CDM,2,True,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,189,H21,CDM -- l_valine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,190,H22,CDM -- l_methionine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,191,H23,CDM -- l_glutamic_acid_75x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,192,H24,CDM -- l_isoleucine_100x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,193,I1,CDM -- prolines_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,194,I2,CDM -- l_phenylalanine_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,195,I3,CDM -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,196,I4,CDM -- l_leucine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,197,I5,CDM -- l_glutamic_acid_75x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,198,I6,CDM -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,199,I7,CDM -- l_threonine_100x -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,200,I8,CDM -- prolines_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,201,I9,CDM -- l_cysteine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,202,I10,CDM -- l_tryptophan_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,203,I11,CDM -- l_threonine_100x -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,204,I12,CDM -- l_phenylalanine_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,205,I13,CDM -- l_glutamic_acid_75x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,206,I14,CDM -- l_methionine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,207,I15,CDM -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,208,I16,CDM -- l_phenylalanine_100x -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,209,I17,CDM -- l_lysine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,210,I18,CDM -- l_isoleucine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,211,I19,CDM -- l_leucine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,212,I20,CDM -- l_glutamic_acid_75x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,213,I21,CDM -- l_phenylalanine_100x -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,214,I22,CDM -- l_threonine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,215,I23,CDM -- l_isoleucine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,216,I24,CDM -- prolines_100x -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,217,J1,CDM -- l_serine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,218,J2,CDM -- l_isoleucine_100x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,219,J3,CDM -- l_isoleucine_100x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,220,J4,CDM,4,True,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,221,J5,CDM -- l_isoleucine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,222,J6,CDM -- l_asparagine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,223,J7,CDM -- l_isoleucine_100x -- l_threonine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,224,J8,CDM -- l_isoleucine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,225,J9,CDM -- l_phenylalanine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,226,J10,CDM -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,227,J11,CDM -- prolines_100x -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,228,J12,CDM -- l_glutamic_acid_75x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,229,J13,CDM -- l_histidine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,230,J14,CDM -- l_tyrosine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,231,J15,CDM -- l_isoleucine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,232,J16,CDM -- l_threonine_100x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,233,J17,CDM -- l_glutamine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,234,J18,CDM -- l_phenylalanine_100x -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,235,J19,CDM -- l_asparagine_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,236,J20,CDM -- glycine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,237,J21,CDM -- l_leucine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,238,J22,CDM -- l_threonine_100x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,239,J23,CDM -- glycine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,240,J24,CDM -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,241,K1,CDM -- l_threonine_100x -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,242,K2,CDM -- l_lysine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,243,K3,CDM -- l_asparagine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,244,K4,CDM -- l_phenylalanine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,245,K5,CDM -- prolines_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,246,K6,CDM -- l_asparagine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,247,K7,CDM -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,248,K8,CDM -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,249,K9,CDM -- l_glutamic_acid_75x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,250,K10,CDM -- l_glutamic_acid_75x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,251,K11,CDM,1,False,True,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,252,K12,CDM -- l_lysine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,253,K13,CDM -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,254,K14,CDM,3,True,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,255,K15,CDM -- l_arginine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,256,K16,CDM -- l_threonine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,257,K17,CDM -- l_serine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,258,K18,CDM -- l_valine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,259,K19,CDM -- l_lysine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,260,K20,CDM -- l_tryptophan_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,261,K21,CDM -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,262,K22,CDM -- l_threonine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,263,K23,CDM -- l_methionine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,264,K24,CDM -- l_lysine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,265,L1,CDM -- l_isoleucine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,266,L2,CDM -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,267,L3,CDM -- l_phenylalanine_100x -- prolines_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,268,L4,CDM -- dl_alanine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,269,L5,CDM -- l_isoleucine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,270,L6,CDM -- l_isoleucine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,271,L7,CDM -- l_isoleucine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,272,L8,CDM -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,273,L9,CDM -- l_tryptophan_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,274,L10,CDM -- l_isoleucine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,275,L11,CDM -- l_asparagine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,276,L12,CDM -- l_phenylalanine_100x -- l_isoleucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,277,L13,CDM -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,278,L14,CDM -- l_asparagine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,279,L15,CDM -- l_cysteine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,280,L16,CDM -- l_arginine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,281,L17,CDM -- l_cysteine_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,282,L18,CDM -- l_phenylalanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,283,L19,CDM -- l_serine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,284,L20,CDM -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,285,L21,CDM -- l_glutamic_acid_75x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,286,L22,CDM -- l_threonine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,287,L23,CDM -- l_threonine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 1$52cda8d16cbda495617a5ded408e27b860d55482,288,L24,CDM -- l_arginine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,1,A1,CDM -- prolines_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,2,A2,CDM,1,True,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,3,A3,CDM -- l_threonine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,4,A4,CDM -- l_serine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,5,A5,CDM -- l_glutamic_acid_75x -- l_threonine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,6,A6,CDM -- l_arginine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,7,A7,CDM -- prolines_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,8,A8,CDM -- l_glutamine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,9,A9,CDM -- l_glutamic_acid_75x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,10,A10,CDM -- l_tyrosine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,11,A11,CDM -- l_threonine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,12,A12,CDM -- l_threonine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,13,A13,CDM -- l_isoleucine_100x -- prolines_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,14,A14,CDM -- l_glutamic_acid_75x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,15,A15,CDM -- l_methionine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,16,A16,CDM -- l_glutamic_acid_75x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,17,A17,CDM -- l_leucine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,18,A18,CDM -- prolines_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,19,A19,CDM -- l_tyrosine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,20,A20,CDM -- l_serine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,21,A21,CDM,1,False,True,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,22,A22,CDM -- l_glutamic_acid_75x -- l_isoleucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,23,A23,CDM -- l_glutamic_acid_75x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,24,A24,CDM -- l_lysine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,25,B1,CDM -- l_asparagine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,26,B2,CDM -- prolines_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,27,B3,CDM -- l_leucine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,28,B4,CDM -- l_isoleucine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,29,B5,CDM -- l_glutamic_acid_75x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,30,B6,CDM -- prolines_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,31,B7,CDM -- l_methionine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,32,B8,CDM -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,33,B9,CDM -- l_threonine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,34,B10,CDM -- l_asparagine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,35,B11,CDM -- l_cysteine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,36,B12,CDM -- l_phenylalanine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,37,B13,CDM -- l_asparagine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,38,B14,CDM -- glycine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,39,B15,CDM -- l_threonine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,40,B16,CDM -- prolines_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,41,B17,CDM -- l_threonine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,42,B18,CDM -- l_asparagine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,43,B19,CDM -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,44,B20,CDM -- glycine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,45,B21,CDM -- prolines_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,46,B22,CDM -- l_glutamic_acid_75x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,47,B23,CDM -- l_asparagine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,48,B24,CDM -- l_phenylalanine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,49,C1,CDM -- l_tyrosine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,50,C2,CDM -- l_serine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,51,C3,CDM -- l_tryptophan_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,52,C4,CDM -- l_arginine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,53,C5,CDM -- l_arginine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,54,C6,CDM -- l_isoleucine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,55,C7,CDM -- l_tryptophan_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,56,C8,CDM -- l_histidine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,57,C9,CDM -- l_arginine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,58,C10,CDM -- prolines_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,59,C11,CDM -- l_methionine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,60,C12,CDM -- l_cysteine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,61,C13,CDM -- l_glutamic_acid_75x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,62,C14,CDM -- glycine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,63,C15,CDM -- l_tyrosine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,64,C16,CDM -- l_serine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,65,C17,CDM -- l_histidine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,66,C18,CDM -- l_tryptophan_100x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,67,C19,CDM -- l_phenylalanine_100x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,68,C20,CDM -- l_asparagine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,69,C21,CDM -- l_serine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,70,C22,CDM -- l_arginine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,71,C23,CDM -- l_arginine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,72,C24,CDM -- l_tryptophan_100x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,73,D1,CDM -- l_cysteine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,74,D2,CDM -- l_isoleucine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,75,D3,CDM -- l_leucine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,76,D4,CDM -- l_threonine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,77,D5,CDM -- prolines_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,78,D6,CDM -- glycine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,79,D7,CDM -- l_cysteine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,80,D8,CDM -- l_tyrosine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,81,D9,CDM -- prolines_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,82,D10,CDM -- l_cysteine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,83,D11,CDM -- l_serine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,84,D12,CDM -- l_isoleucine_100x -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,85,D13,CDM -- l_threonine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,86,D14,CDM -- l_tryptophan_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,87,D15,CDM -- l_phenylalanine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,88,D16,CDM -- l_tryptophan_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,89,D17,CDM -- l_phenylalanine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,90,D18,CDM -- l_cysteine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,91,D19,CDM -- l_tryptophan_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,92,D20,CDM -- l_glutamic_acid_75x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,93,D21,CDM -- prolines_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,94,D22,CDM -- l_isoleucine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,95,D23,CDM -- l_isoleucine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,96,D24,CDM -- l_lysine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,97,E1,CDM -- prolines_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,98,E2,CDM -- glycine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,99,E3,CDM -- l_tryptophan_100x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,100,E4,CDM -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,101,E5,CDM -- l_phenylalanine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,102,E6,CDM -- l_serine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,103,E7,CDM -- l_isoleucine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,104,E8,CDM -- l_glutamic_acid_75x -- l_threonine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,105,E9,CDM -- l_asparagine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,106,E10,CDM -- l_glutamine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,107,E11,CDM -- l_isoleucine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,108,E12,CDM -- l_cysteine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,109,E13,CDM -- l_leucine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,110,E14,CDM -- l_serine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,111,E15,CDM -- l_threonine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,112,E16,CDM -- glycine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,113,E17,CDM -- glycine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,114,E18,CDM -- l_cysteine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,115,E19,CDM -- l_cysteine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,116,E20,CDM -- l_phenylalanine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,117,E21,CDM -- prolines_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,118,E22,CDM -- l_phenylalanine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,119,E23,CDM -- l_asparagine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,120,E24,CDM -- l_asparagine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,121,F1,CDM -- l_lysine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,122,F2,CDM -- l_isoleucine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,123,F3,CDM -- l_glutamic_acid_75x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,124,F4,CDM -- l_asparagine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,125,F5,CDM -- l_glutamine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,126,F6,CDM -- l_glutamic_acid_75x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,127,F7,CDM -- l_histidine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,128,F8,CDM -- l_tyrosine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,129,F9,CDM -- l_threonine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,130,F10,CDM -- l_methionine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,131,F11,CDM -- l_cysteine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,132,F12,CDM -- l_isoleucine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,133,F13,CDM -- l_glutamic_acid_75x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,134,F14,CDM -- l_glutamine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,135,F15,CDM -- glycine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,136,F16,CDM -- l_asparagine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,137,F17,CDM -- l_phenylalanine_100x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,138,F18,CDM -- l_arginine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,139,F19,CDM -- l_phenylalanine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,140,F20,CDM -- l_tryptophan_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,141,F21,CDM -- l_glutamic_acid_75x -- l_isoleucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,142,F22,CDM -- l_serine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,143,F23,CDM -- l_cysteine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,144,F24,CDM -- l_isoleucine_100x -- prolines_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,145,G1,CDM -- l_phenylalanine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,146,G2,CDM -- l_arginine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,147,G3,CDM -- dl_alanine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,148,G4,CDM -- l_isoleucine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,149,G5,CDM -- dl_alanine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,150,G6,CDM,2,True,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,151,G7,CDM -- l_leucine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,152,G8,CDM -- l_tryptophan_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,153,G9,CDM -- l_histidine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,154,G10,CDM -- l_lysine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,155,G11,CDM -- l_asparagine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,156,G12,CDM -- l_leucine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,157,G13,CDM -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,158,G14,CDM -- l_tyrosine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,159,G15,CDM -- l_arginine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,160,G16,CDM -- l_asparagine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,161,G17,CDM -- l_tyrosine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,162,G18,CDM -- l_phenylalanine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,163,G19,CDM -- l_tryptophan_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,164,G20,CDM -- l_isoleucine_100x -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,165,G21,CDM -- prolines_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,166,G22,CDM -- l_threonine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,167,G23,CDM -- l_tryptophan_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,168,G24,CDM -- l_isoleucine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,169,H1,CDM -- l_glutamic_acid_75x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,170,H2,CDM -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,171,H3,CDM -- l_arginine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,172,H4,CDM -- glycine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,173,H5,CDM -- l_arginine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,174,H6,CDM -- l_tyrosine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,175,H7,CDM -- l_methionine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,176,H8,CDM -- l_isoleucine_100x -- prolines_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,177,H9,CDM -- l_tryptophan_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,178,H10,CDM -- l_phenylalanine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,179,H11,CDM -- l_threonine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,180,H12,CDM -- glycine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,181,H13,CDM -- l_glutamine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,182,H14,CDM -- l_phenylalanine_100x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,183,H15,CDM -- l_threonine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,184,H16,CDM -- l_glutamine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,185,H17,CDM -- l_leucine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,186,H18,CDM -- l_isoleucine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,187,H19,CDM -- prolines_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,188,H20,CDM -- l_lysine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,189,H21,CDM -- l_glutamic_acid_75x -- l_threonine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,190,H22,CDM -- l_cysteine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,191,H23,CDM,3,True,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,192,H24,CDM -- l_phenylalanine_100x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,193,I1,CDM -- l_glutamic_acid_75x -- l_isoleucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,194,I2,CDM -- l_serine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,195,I3,CDM -- prolines_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,196,I4,CDM -- l_threonine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,197,I5,CDM,3,False,True,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,198,I6,CDM -- l_phenylalanine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,199,I7,CDM -- l_tyrosine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,200,I8,CDM -- l_glutamic_acid_75x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,201,I9,CDM -- l_asparagine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,202,I10,CDM -- dl_alanine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,203,I11,CDM -- l_asparagine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,204,I12,CDM -- l_phenylalanine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,205,I13,CDM -- l_phenylalanine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,206,I14,CDM -- l_glutamic_acid_75x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,207,I15,CDM -- l_cysteine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,208,I16,CDM -- dl_alanine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,209,I17,CDM -- l_isoleucine_100x -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,210,I18,CDM -- l_asparagine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,211,I19,CDM -- l_tyrosine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,212,I20,CDM -- l_glutamic_acid_75x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,213,I21,CDM -- prolines_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,214,I22,CDM -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,215,I23,CDM -- prolines_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,216,I24,CDM,4,False,True,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,217,J1,CDM -- l_cysteine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,218,J2,CDM -- l_glutamic_acid_75x -- l_threonine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,219,J3,CDM -- l_leucine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,220,J4,CDM -- prolines_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,221,J5,CDM -- l_isoleucine_100x -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,222,J6,CDM -- l_phenylalanine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,223,J7,CDM -- l_tryptophan_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,224,J8,CDM -- l_methionine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,225,J9,CDM -- l_threonine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,226,J10,CDM -- l_leucine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,227,J11,CDM -- l_glutamic_acid_75x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,228,J12,CDM -- l_tyrosine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,229,J13,CDM -- prolines_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,230,J14,CDM -- prolines_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,231,J15,CDM -- l_lysine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,232,J16,CDM -- l_methionine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,233,J17,CDM -- l_cysteine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,234,J18,CDM -- l_arginine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,235,J19,CDM -- l_asparagine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,236,J20,CDM -- l_threonine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,237,J21,CDM -- l_glutamic_acid_75x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,238,J22,CDM -- prolines_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,239,J23,CDM -- l_isoleucine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,240,J24,CDM -- l_arginine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,241,K1,CDM -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,242,K2,CDM,4,True,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,243,K3,CDM -- l_glutamic_acid_75x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,244,K4,CDM -- l_tryptophan_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,245,K5,CDM -- l_arginine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,246,K6,CDM -- l_isoleucine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,247,K7,CDM -- l_phenylalanine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,248,K8,CDM -- l_tryptophan_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,249,K9,CDM -- l_glutamic_acid_75x -- l_isoleucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,250,K10,CDM -- l_phenylalanine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,251,K11,CDM -- l_asparagine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,252,K12,CDM -- l_leucine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,253,K13,CDM -- l_glutamic_acid_75x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,254,K14,CDM -- glycine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,255,K15,CDM -- l_glutamic_acid_75x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,256,K16,CDM -- l_asparagine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,257,K17,CDM -- l_tryptophan_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,258,K18,CDM -- l_phenylalanine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,259,K19,CDM -- l_lysine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,260,K20,CDM -- l_threonine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,261,K21,CDM -- prolines_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,262,K22,CDM -- l_isoleucine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,263,K23,CDM -- glycine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,264,K24,CDM -- l_tryptophan_100x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,265,L1,CDM -- l_threonine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,266,L2,CDM -- l_glutamine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,267,L3,CDM -- l_tryptophan_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,268,L4,CDM -- l_leucine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,269,L5,CDM -- l_threonine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,270,L6,CDM -- l_phenylalanine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,271,L7,CDM -- l_isoleucine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,272,L8,CDM -- l_cysteine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,273,L9,CDM -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,274,L10,CDM -- l_serine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,275,L11,CDM -- l_methionine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,276,L12,CDM -- l_lysine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,277,L13,CDM -- prolines_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,278,L14,CDM -- l_arginine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,279,L15,CDM,2,False,True,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,280,L16,CDM -- l_asparagine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,281,L17,CDM -- l_glutamine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,282,L18,CDM -- l_serine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,283,L19,CDM -- l_leucine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,284,L20,CDM -- l_tryptophan_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,285,L21,CDM -- l_phenylalanine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,286,L22,CDM -- l_isoleucine_100x -- prolines_100x,3,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,287,L23,CDM -- l_arginine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 2$ae8fea432d9148c190354fb6b41b4c5fb1e03950,288,L24,CDM -- l_threonine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,1,A1,CDM -- l_arginine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,2,A2,CDM -- l_methionine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,3,A3,CDM -- dl_alanine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,4,A4,CDM -- l_tryptophan_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,5,A5,CDM -- l_tyrosine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,6,A6,CDM -- dl_alanine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,7,A7,CDM -- l_serine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,8,A8,CDM -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,9,A9,CDM -- l_isoleucine_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,10,A10,CDM -- l_threonine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,11,A11,CDM -- l_isoleucine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,12,A12,CDM -- l_asparagine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,13,A13,CDM -- l_threonine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,14,A14,CDM -- l_arginine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,15,A15,CDM -- prolines_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,16,A16,CDM -- glycine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,17,A17,CDM -- l_cysteine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,18,A18,CDM -- l_arginine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,19,A19,CDM -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,20,A20,CDM -- glycine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,21,A21,CDM -- l_glutamic_acid_75x -- prolines_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,22,A22,CDM -- l_threonine_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,23,A23,CDM -- l_tryptophan_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,24,A24,CDM -- prolines_100x -- l_threonine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,25,B1,CDM -- l_phenylalanine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,26,B2,CDM -- l_threonine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,27,B3,CDM -- l_isoleucine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,28,B4,CDM -- l_isoleucine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,29,B5,CDM -- l_glutamic_acid_75x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,30,B6,CDM -- l_lysine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,31,B7,CDM -- l_phenylalanine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,32,B8,CDM -- glycine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,33,B9,CDM -- l_arginine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,34,B10,CDM -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,35,B11,CDM -- prolines_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,36,B12,CDM -- l_asparagine_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,37,B13,CDM -- glycine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,38,B14,CDM -- l_threonine_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,39,B15,CDM -- l_tryptophan_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,40,B16,CDM -- l_cysteine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,41,B17,CDM -- l_asparagine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,42,B18,CDM -- prolines_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,43,B19,CDM -- l_cysteine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,44,B20,CDM -- l_tryptophan_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,45,B21,CDM -- l_threonine_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,46,B22,CDM -- l_tryptophan_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,47,B23,CDM -- l_methionine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,48,B24,CDM -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,49,C1,CDM -- l_asparagine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,50,C2,CDM -- l_leucine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,51,C3,CDM -- l_glutamic_acid_75x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,52,C4,CDM -- l_phenylalanine_100x -- l_threonine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,53,C5,CDM -- prolines_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,54,C6,CDM -- prolines_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,55,C7,CDM -- l_glutamine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,56,C8,CDM -- l_isoleucine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,57,C9,CDM -- l_isoleucine_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,58,C10,CDM -- l_phenylalanine_100x -- l_threonine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,59,C11,CDM -- l_threonine_100x -- l_arginine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,60,C12,CDM -- prolines_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,61,C13,CDM -- l_isoleucine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,62,C14,CDM -- l_serine_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,63,C15,CDM -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,64,C16,CDM -- prolines_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,65,C17,CDM -- l_tryptophan_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,66,C18,CDM -- prolines_100x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,67,C19,CDM -- l_glutamic_acid_75x -- prolines_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,68,C20,CDM -- l_phenylalanine_100x -- l_threonine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,69,C21,CDM -- l_phenylalanine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,70,C22,CDM -- l_leucine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,71,C23,CDM -- l_leucine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,72,C24,CDM -- l_asparagine_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,73,D1,CDM -- prolines_100x -- l_asparagine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,74,D2,CDM -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,75,D3,CDM -- l_arginine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,76,D4,CDM -- l_phenylalanine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,77,D5,CDM -- l_cysteine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,78,D6,CDM -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,79,D7,CDM -- l_glutamic_acid_75x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,80,D8,CDM -- l_tryptophan_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,81,D9,CDM -- l_glutamic_acid_75x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,82,D10,CDM -- l_isoleucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,83,D11,CDM -- l_tyrosine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,84,D12,CDM -- glycine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,85,D13,CDM -- l_leucine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,86,D14,CDM -- l_threonine_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,87,D15,CDM -- prolines_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,88,D16,CDM -- prolines_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,89,D17,CDM -- prolines_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,90,D18,CDM -- l_glutamic_acid_75x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,91,D19,CDM -- prolines_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,92,D20,CDM -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,93,D21,CDM -- prolines_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,94,D22,CDM -- prolines_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,95,D23,CDM -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,96,D24,CDM -- l_glutamic_acid_75x -- l_tryptophan_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,97,E1,CDM -- l_threonine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,98,E2,CDM -- l_cysteine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,99,E3,CDM -- l_tryptophan_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,100,E4,CDM -- l_methionine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,101,E5,CDM,2,True,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,102,E6,CDM -- l_phenylalanine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,103,E7,CDM -- l_lysine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,104,E8,CDM -- glycine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,105,E9,CDM -- l_arginine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,106,E10,CDM -- l_glutamine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,107,E11,CDM -- l_leucine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,108,E12,CDM -- l_glutamic_acid_75x -- l_tryptophan_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,109,E13,CDM -- prolines_100x -- l_threonine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,110,E14,CDM -- prolines_100x -- l_asparagine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,111,E15,CDM -- dl_alanine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,112,E16,CDM -- l_isoleucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,113,E17,CDM -- l_arginine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,114,E18,CDM -- prolines_100x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,115,E19,CDM -- l_lysine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,116,E20,CDM -- l_threonine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,117,E21,CDM -- l_cysteine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,118,E22,CDM -- dl_alanine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,119,E23,CDM -- l_phenylalanine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,120,E24,CDM -- l_tryptophan_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,121,F1,CDM -- l_asparagine_100x -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,122,F2,CDM -- l_cysteine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,123,F3,CDM -- l_phenylalanine_100x -- l_threonine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,124,F4,CDM -- l_serine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,125,F5,CDM -- l_threonine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,126,F6,CDM -- l_serine_100x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,127,F7,CDM -- l_isoleucine_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,128,F8,CDM -- prolines_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,129,F9,CDM -- l_threonine_100x -- l_serine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,130,F10,CDM -- l_threonine_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,131,F11,CDM -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,132,F12,CDM -- l_serine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,133,F13,CDM -- l_tryptophan_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,134,F14,CDM -- l_isoleucine_100x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,135,F15,CDM -- l_asparagine_100x -- l_cysteine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,136,F16,CDM,4,True,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,137,F17,CDM -- l_glutamic_acid_75x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,138,F18,CDM -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,139,F19,CDM -- l_phenylalanine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,140,F20,CDM,1,False,True,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,141,F21,CDM -- l_tyrosine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,142,F22,CDM -- l_asparagine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,143,F23,CDM -- l_tryptophan_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,144,F24,CDM -- l_tryptophan_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,145,G1,CDM -- l_glutamic_acid_75x -- l_asparagine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,146,G2,CDM -- l_threonine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,147,G3,CDM -- l_cysteine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,148,G4,CDM -- l_threonine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,149,G5,CDM -- l_asparagine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,150,G6,CDM -- l_asparagine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,151,G7,CDM -- l_asparagine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,152,G8,CDM -- l_serine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,153,G9,CDM -- l_isoleucine_100x -- l_arginine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,154,G10,CDM -- l_leucine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,155,G11,CDM -- l_arginine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,156,G12,CDM -- l_isoleucine_100x -- l_serine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,157,G13,CDM -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,158,G14,CDM -- l_tryptophan_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,159,G15,CDM -- l_asparagine_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,160,G16,CDM -- prolines_100x -- l_threonine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,161,G17,CDM -- l_threonine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,162,G18,CDM -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,163,G19,CDM -- l_methionine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,164,G20,CDM -- l_cysteine_100x -- glycine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,165,G21,CDM -- l_tyrosine_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,166,G22,CDM -- l_threonine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,167,G23,CDM -- glycine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,168,G24,CDM -- l_leucine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,169,H1,CDM -- l_cysteine_100x -- l_tyrosine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,170,H2,CDM -- l_arginine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,171,H3,CDM,4,False,True,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,172,H4,CDM -- l_tryptophan_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,173,H5,CDM -- l_arginine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,174,H6,CDM -- l_glutamic_acid_75x -- l_tryptophan_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,175,H7,CDM -- l_glutamic_acid_75x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,176,H8,CDM -- l_tyrosine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,177,H9,CDM -- l_leucine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,178,H10,CDM -- l_phenylalanine_100x -- l_lysine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,179,H11,CDM -- l_serine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,180,H12,CDM -- l_arginine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,181,H13,CDM -- l_glutamine_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,182,H14,CDM -- l_threonine_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,183,H15,CDM -- l_cysteine_100x -- l_glutamine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,184,H16,CDM -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,185,H17,CDM -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,186,H18,CDM -- l_phenylalanine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,187,H19,CDM -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,188,H20,CDM -- l_glutamic_acid_75x -- l_phenylalanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,189,H21,CDM -- glycine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,190,H22,CDM -- l_methionine_100x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,191,H23,CDM -- l_cysteine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,192,H24,CDM -- l_arginine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,193,I1,CDM -- l_glutamic_acid_75x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,194,I2,CDM -- l_tryptophan_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,195,I3,CDM -- l_glutamic_acid_75x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,196,I4,CDM -- l_phenylalanine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,197,I5,CDM -- l_threonine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,198,I6,CDM -- l_glutamic_acid_75x -- l_phenylalanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,199,I7,CDM -- l_glutamic_acid_75x -- l_phenylalanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,200,I8,CDM -- l_glutamic_acid_75x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,201,I9,CDM -- l_asparagine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,202,I10,CDM -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,203,I11,CDM -- l_threonine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,204,I12,CDM -- glycine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,205,I13,CDM -- l_methionine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,206,I14,CDM -- glycine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,207,I15,CDM -- l_tryptophan_100x -- l_aspartic_acid_45x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,208,I16,CDM -- l_glutamic_acid_75x -- l_glutamine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,209,I17,CDM -- l_phenylalanine_100x -- glycine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,210,I18,CDM -- l_isoleucine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,211,I19,CDM -- l_cysteine_100x -- l_glutamine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,212,I20,CDM -- l_threonine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,213,I21,CDM -- l_arginine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,214,I22,CDM -- l_serine_100x -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,215,I23,CDM -- l_glutamic_acid_75x -- prolines_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,216,I24,CDM -- l_glutamic_acid_75x -- l_asparagine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,217,J1,CDM -- l_serine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,218,J2,CDM -- l_phenylalanine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,219,J3,CDM -- l_isoleucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,220,J4,CDM -- l_glutamic_acid_75x -- dl_alanine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,221,J5,CDM -- l_tryptophan_100x -- l_aspartic_acid_45x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,222,J6,CDM -- l_tryptophan_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,223,J7,CDM -- l_glutamic_acid_75x -- l_leucine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,224,J8,CDM -- l_tyrosine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,225,J9,CDM -- glycine_100x -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,226,J10,CDM -- l_phenylalanine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,227,J11,CDM -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,228,J12,CDM -- l_threonine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,229,J13,CDM -- glycine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,230,J14,CDM -- l_arginine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,231,J15,CDM -- l_asparagine_100x -- l_serine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,232,J16,CDM -- l_arginine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,233,J17,CDM,3,False,True,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,234,J18,CDM -- l_isoleucine_100x -- l_cysteine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,235,J19,CDM -- glycine_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,236,J20,CDM -- glycine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,237,J21,CDM -- l_serine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,238,J22,CDM -- l_isoleucine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,239,J23,CDM -- l_phenylalanine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,240,J24,CDM -- l_tryptophan_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,241,K1,CDM -- l_lysine_100x -- l_glutamine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,242,K2,CDM -- l_cysteine_100x -- l_tyrosine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,243,K3,CDM -- l_serine_100x -- l_histidine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,244,K4,CDM -- l_phenylalanine_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,245,K5,CDM -- glycine_100x -- dl_alanine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,246,K6,CDM -- l_methionine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,247,K7,CDM -- l_cysteine_100x -- l_tyrosine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,248,K8,CDM -- glycine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,249,K9,CDM -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,250,K10,CDM -- l_arginine_100x -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,251,K11,CDM -- l_asparagine_100x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,252,K12,CDM -- l_isoleucine_100x -- l_arginine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,253,K13,CDM -- l_glutamic_acid_75x -- l_tryptophan_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,254,K14,CDM -- l_asparagine_100x -- glycine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,255,K15,CDM -- l_tyrosine_100x -- l_lysine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,256,K16,CDM -- l_isoleucine_100x -- l_cysteine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,257,K17,CDM -- l_cysteine_100x -- glycine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,258,K18,CDM -- l_glutamine_100x -- l_aspartic_acid_45x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,259,K19,CDM -- l_glutamic_acid_75x -- prolines_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,260,K20,CDM -- l_phenylalanine_100x -- l_lysine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,261,K21,CDM -- l_isoleucine_100x -- l_arginine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,262,K22,CDM -- l_serine_100x -- dl_alanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,263,K23,CDM -- l_phenylalanine_100x -- l_aspartic_acid_45x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,264,K24,CDM -- l_glutamic_acid_75x -- l_phenylalanine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,265,L1,CDM -- l_phenylalanine_100x -- l_histidine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,266,L2,CDM -- l_glutamic_acid_75x -- l_leucine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,267,L3,CDM -- l_methionine_100x -- l_valine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,268,L4,CDM -- l_phenylalanine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,269,L5,CDM -- l_isoleucine_100x -- l_serine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,270,L6,CDM -- l_tyrosine_100x -- l_lysine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,271,L7,CDM -- l_phenylalanine_100x -- l_histidine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,272,L8,CDM -- l_threonine_100x -- l_cysteine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,273,L9,CDM,1,True,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,274,L10,CDM -- l_methionine_100x -- l_valine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,275,L11,CDM,2,False,True,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,276,L12,CDM,3,True,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,277,L13,CDM -- l_methionine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,278,L14,CDM -- l_threonine_100x -- l_valine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,279,L15,CDM -- l_tryptophan_100x -- l_histidine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,280,L16,CDM -- l_leucine_100x -- l_methionine_100x,2,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,281,L17,CDM -- prolines_100x -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,282,L18,CDM -- l_isoleucine_100x -- l_leucine_100x,3,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,283,L19,CDM -- prolines_100x -- l_threonine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,284,L20,CDM -- l_methionine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,285,L21,CDM -- l_valine_100x,1,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,286,L22,CDM -- l_isoleucine_100x -- l_tyrosine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,287,L23,CDM -- prolines_100x -- dl_alanine_100x,4,False,False,S. mutans UA159,aerobic
+Plate 3$c7480e770a29e2e6de7ef1f0a6d05cd2d39c070b,288,L24,CDM -- l_isoleucine_100x,4,False,False,S. mutans UA159,aerobic
