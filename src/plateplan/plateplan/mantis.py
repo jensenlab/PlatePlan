@@ -1,10 +1,4 @@
-"""Interface/file generator for the Formulatrix Mantis liquid handler
-
-Follows the Reagent Name Based format:
-    http://formulatrix.com/online_helps/mantis/4.0/Content/
-        Designing_Dispenses/Tutorials/Importing_Dispense_Data.htm
-
-"""
+"""Interface/file generator for the Formulatrix Mantis liquid handler"""
 
 import shutil
 import os

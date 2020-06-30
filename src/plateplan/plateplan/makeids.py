@@ -32,7 +32,7 @@ def unique_id_from_time(length=None, salt=None):
 
 
 def unique_id(prefix=""):
-    """Return a unique DeepPhenotyping ID.
+    """Return a unique PlatePlan ID.
     
     IDs have the format 
     

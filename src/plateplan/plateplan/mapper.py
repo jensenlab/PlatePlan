@@ -95,16 +95,21 @@ def save_well_map(path, layout, instruction_set_id, dimensions):
 def files_to_layout(filepath):
     """Converts from Mantis worklists to proper well map.
     
-    WARNING: Customize values below before using.
+    WARNING: Not supported. This can be used to recover an equivalent mapping if you forget
+    to use mantis.save_well_map() when running your protocol.
+    
+    Customize values below before using.
+
     """
 
-    ### CUSTOMIZE FILENAMES:
+    ####### CUSTOMIZE FILENAMES ACCORDINGLY:
     plate_dispense_files = {
         "Plate 1$fa8941a6392b8cbce99989927365caae983ba598": ["ad39d51d_mantis"],
         "Plate 2$778cc3206be303aa14a495f9e2d4dba38cf1b97d": ["cc6af787_mantis"],
         "Plate 3$0c5bfb6c6a1c28336201f450ff16b8393ad29399": ["489a3d0d_mantis"],
         "Plate 4$95a3d25c285c527f253cc3afaf1e8806e834a160": ["a32ff7ac_mantis"],
     }
+    #######
 
     all_rows = list()
     for plate, files in plate_dispense_files.items():
@@ -143,8 +148,8 @@ def files_to_layout(filepath):
                 False,
                 False,
                 False,
-                "S. mutans UA159",
-                "5% CO2",
+                "S. mutans UA159", #### CUSTOMIZE
+                "5% CO2",  #### CUSTOMIZE
             ]
             all_rows.append(new_row)
 
@@ -161,7 +166,7 @@ def files_to_layout(filepath):
             "environment",
         ],
     )
-
+    #### YOU'LL NEED TO SAVE THIS TO A MAP.CSV
     return layout
 
 
@@ -222,14 +227,7 @@ def collect_data(map_csv, plate_indexes, initial_data, final_data, output_path):
 
 
 if __name__ == "__main__":
-    import CDM
 
-    # plates, instructions, layout = CDM.schedule_CDM_l2o(CDM.CDM, list(CDM.CDM_stocks.values()), max_n=50)
-    # save_well_map(layout, "test_id", num_split_plates=2, ot_split_file="96_to_384_Mapping_8plate.csv")
-
-    layout = files_to_layout(
-        "../data/worklists/L2O AAs-SSO 2$83c4cac0522aa286993bda5e8e4c2b8a6d1defac"
-    )
     save_well_map(
         layout,
         "SAVED_MAP.csv",

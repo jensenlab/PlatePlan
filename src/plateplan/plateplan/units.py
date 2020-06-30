@@ -1,6 +1,6 @@
 """Unit parsing and arithmetic.
 
-Almost all quantities for Deep Phenotyping require units. Rather than store
+Almost all quantities for PlatePlan require units. Rather than store
 units separately and manage conversions case-by-case, we use a set of *Unit
 classes (MaterialUnit, VolumeUnit, ConcentrationUnit, etc.). These classes
 define arithmetic operations to abstract unit conversion details.
