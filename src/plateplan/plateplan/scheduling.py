@@ -595,6 +595,7 @@ def layout_plates(
     if plate_blank is not None:
         _INFO("Using plate blanks.")
         blanks = layout[layout.solution_id == plate_blank[0]]
+        blanks = pd.concat([blanks] * plate_blank[1], ignore_index=True)
         accum = pd.DataFrame()
 
         for i in range(locs["n_plates"]):
@@ -613,6 +614,7 @@ def layout_plates(
         _INFO("Using plate controls.")
         layout.plate_control = layout.solution_id == plate_control[0]
         controls = layout[layout.plate_control]
+        controls = pd.concat([controls] * plate_control[1], ignore_index=True)
         others = layout[~layout.plate_control]
         accum = pd.DataFrame()
         for i in range(locs["n_plates"]):
@@ -637,6 +639,7 @@ def layout_plates(
     others_aggregated = others_grouped.agg(
         replicate=("replicate", lambda x: len(x)), og_indexes=("index", tuple)
     )
+
     for _, row in others_aggregated.iterrows():
         location = locs["assays"].pop(0)
         for r in range(row["replicate"]):
