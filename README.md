@@ -299,7 +299,7 @@ After you complete your experiment and collect the data, you'll need to map the 
     
 
 # Publications
-Please reach out if you use this software in any of you questions at manager@jensenlab.net, we'd love to hear about your project.
+Please reach out if you use this software to software@jensenlab.net, we'd love to hear about your project!
 
 # Usage Policy/License
 This software is provided to you with no guarantees under the standard MIT License.
