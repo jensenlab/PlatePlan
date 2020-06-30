@@ -253,12 +253,12 @@ You'll need to export the well map **when you run your protocol** to recover the
 After you complete your experiment and collect the data, you'll need to map the raw data back to the experiment--otherwise you can't know which Solution was dispensed in which locations, the controls/blanks, or which bacteria and condition they were grown in. Our data comes in the form of data/well/plate * the number of times you collected data--we use initial and end-point optical density-- in CSV files from a BioTek Epoch plate reader. 
 
    
-	   # This dictionary maps plate.id (you can find in the map.csv) -> index of the order you read the plates in--order according to the data CSV files from the Epoch plate reader.
-	   plate_indexes = {
-		   'Plate 1$2e4c88f109411bd5eefe09bcbfa1d1c184cc967e' : 0
-		}
+	# This dictionary maps plate.id (you can find in the map.csv) -> index of the order you read the plates in--order according to the data CSV files from the Epoch plate reader.
+	plate_indexes = {
+		'Plate 1$2e4c88f109411bd5eefe09bcbfa1d1c184cc967e' : 0
+	}
     
-    mapper.collect_data(
+   	mapper.collect_data(
 	    map_csv=('[DATA OUTPUT PATH]/plate_maps/[EXPERIMENT ID]/map.csv'), # Update values with map.csv path
 	    plate_indexes=plate_indexes,
 	    initial_data='[INITIAL DATA PATH]', # Update with initial OD CSV location
