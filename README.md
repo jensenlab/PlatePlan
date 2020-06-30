@@ -27,25 +27,32 @@ You can refer to **[Running an Experiment](#running-an-experiment)** for more de
 	* 4.7 To test if it installed correctly, run `python` to start a Python shell in your terminal. Then run `import gurobipy`. If there are no errors, the Gurobi interface has installed successfully!
 5. You are ready to make your first PlatePlan protocol
 # Structure
-In order to define an experiment, the user needs to define the input Ingredients: Solutions, Reagents, and Stocks. Stocks represent the physical analog of Solutions which are virtual themselves. Solutions can consist of single or multiple reagents, as long as you define a concentration for each. 
+In order to define an experiment, the user needs to define the input **Ingredients**: **Solutions**, **Reagents**, and **Stocks**. Stocks represent the physical analog of Solutions which are virtual themselves. Solutions can consist of single or multiple reagents, as long as you define a concentration for each. 
 
 ## Ingredients
 ### Reagents
-Reagents are the smallest unit of the experiment you are planning, usually a singular component/reagent. They have two 
+Reagents are the smallest unit of the experiment you are planning, usually a singular component/reagent. They have 3 
 properties: 
+
 `id`: An identifier string of the reagent, e.g. 'sodium_chloride'
+
 `name`: A secondary name of the reagent, e.g. 'NaCl'
+
 `molecular_weight`: A string of the molecular weight, e.g. '58.44 g/mol'
+
 ### Solutions
 Solutions are composed of one or more `Reagent.id` and their concentrations in solution. Solutions represent both the solutions you are dispensing and the solutions you are trying to make. They are composed of 3 components:
 properties: 
+
 `id`: A string of the solution name, e.g. 'sodium_chloride'
+
 `reagents`: A dictionary mapping Reagent.id -> concentration (as string), e.g. 
->
->     {
->	       'sodium_chloride' : '50 mg/L',
->	       'sodium_carbonate' : '50 mg/L'
->	  }
+
+
+     {
+	       'sodium_chloride' : '50 mg/L',
+	       'sodium_carbonate' : '50 mg/L'
+	 }
 
 `solvent`: A string of the solvent
 
