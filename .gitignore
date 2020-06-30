@@ -1,4 +1,4 @@
-templates/experiments
+templates/experiment_outputs
 templates/gurobi.log
 Pipfile.lock
 .vscode
