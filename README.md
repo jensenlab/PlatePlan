@@ -1,4 +1,3 @@
-
 <p align="center"><img src="img/plateplan_logo.png" width="250" hspace="100"><img src="img/jensenlab_logo.png" height="200" hspace="100"></p>
 
 # Welcome to PlatePlan
