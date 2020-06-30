@@ -259,8 +259,8 @@ def schedule_CDM_l2o(
         plate=constants.labware["WP384"],
         total_volume="80 ul",
         working_volume="78 ul",
-        plate_control=("CDM", 1),
-        plate_blank=("CDM", 1),
+        plate_control=("CDM", 3),
+        plate_blank=("CDM", 3),
         replicates=4,
         min_drop_size="0.1 ul",
     )
