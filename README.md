@@ -58,12 +58,19 @@ properties:
 
 ### Stocks
 Stocks contain a single Solution with additional real-world laboratory information, useful for inventory and management. They are composed of the following attributes:
+
 `ingredient`: The corresponding Solution object
+
 `id`: The ID of this new stock
+
 `quantity`: The volume of the stock you have stored
+
 `labware`: The type of labware the stock is stored in
+
 `location`: The location of the stock
+
 `date_made`: The date the stock was made
+
 `date_expires`: The expiry date of the stock
 
 ## Example experiment set up using stocks and solutions
