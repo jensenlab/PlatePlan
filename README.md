@@ -1,7 +1,7 @@
 <p align="center"><img src="img/plateplan_logo.png" width="250" hspace="100"><img src="img/jensenlab_logo.png" height="200" hspace="100"></p>
 
 # Welcome to PlatePlan
-PlatePlan is the bridge between your hypotheses and results. In order to make that jump, a lot goes into the logistics and planning out an experiment, from how many multi-well plates to use and where to dispense each reagent, to which reagents to batch together and how much volume to dispense. These logistics are especially challenging in the case of high-throughput assays where you may have tens of thousands of experiments to manage and keep track of. 
+PlatePlan is the bridge between your hypotheses and results. In order to make that jump, a lot goes into the logistics and planning out an experiment, from how many multi-well plates to use and where to dispense each reagent, to which reagents to batch together and how much volume to dispense. These logistics are especially challenging in the case of high-throughput, combinatorial assays where you may have tens of thousands of unique dispenses to manage and keep track of. 
 
 PlatePlan takes some of that burden away from the experimenter by handling those logistics for you. It has been tailored to our lab's set up ([Jensen Lab, UIUC](http://www.jensenlab.net)) to take advantage of the [Formulatrix Mantis](https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/) liquid handling robot for combinatorial bacteria growth assays, but can be adapted to fit another use case with relative ease. 
 
@@ -138,21 +138,38 @@ For this example experiment, we will make all combinations of 2 of the following
 # Running an Experiment
 Once you have generated all the necessary Solutions and Stocks needed to run the experiment, you must now define the other experiment parameters and run the scheduler.
 ### Defining your experiment parameters
+
 `solutions`: list of ingredients.Solutions you want to make. Each one of these Solutions.&#8203;id must be present in a Stock in `stocks` below.
+
 `strains`: list of str of the bacteria you want to use
+
 `environments`: list of str of the environments you want to grow in
+
 `stocks`: list of ingredients.Stocks that you have for dispensing
+
 `plate`: a constants.labware Labware plate, e.g. constants.labware["WP384"] for 384-well plate
+
 `replicates`: int number of replicates 
-`plate_control`: tuple of (Solution.&#8203;id, quantity) to use for the control, e.g. ("CDM",  1). This Solution.&#8203;id *MUST* be a solution given in `solutions`. The scheduler **will not** make any extra wells of the control Solution, but rather uses the actual Solution dispenses as the control wells, unlike the blanks.
+
+`plate_control`: tuple of (Solution.&#8203;id, quantity) to use for the control, e.g. ("CDM",  1). This Solution.&#8203;id *MUST* be a solution given in 
+
+`solutions`. The scheduler **will not** make any extra wells of the control Solution, but rather uses the actual Solution dispenses as the control wells, unlike the blanks.
+
 `plate_blank`:  tuple of (Solution.&#8203;id, quantity) to use for the blank, e.g. ("CDM",  1). This Solution.&#8203;id *MUST* be a solution that exists in the `solutions` . The scheduler **will** make `quantity * replicates` number of extra wells of the blank Solution to use as the blank wells, unlike the controls.
+
 `randomize`: boolean flag to set if replicates should have randomized locations within the plate (replicates will always be placed on the same plate)
 `plate_prefix`: str to add to the plate name
+
 `total_volume`: str of volume in each well, e.g. "80 ul"
+
 `working_volume`: str of the working volume in each well, e.g. "80 ul"
+
 `min_drop_size`: str of the volume corresponding to the maximum resolution for your liquid handler, e.g. "0.1 ul"
+
 `quantity_units`: str of concentration unit to use for liquid handler, e.g. "ug/ul"
+
 `excess`: str of reagent to use to input for excess volume/to get to the correct concentrations, e.g. "water"
+
 `max_stocks`: int of the maximum number of stocks you can load at a time in your liquid handler, e.g. 24 (we use a Formulatrix Mantis + LC3)
 
 ### Example scheduler run
