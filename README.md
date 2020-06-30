@@ -1,7 +1,7 @@
 <p align="center"><img src="img/plateplan_logo.png" width="250" hspace="100"><img src="img/jensenlab_logo.png" height="200" hspace="100"></p>
 
 # Welcome to PlatePlan
-PlatePlan is meant to be the bridge between your hypotheses and results. In order to make that jump, a lot goes into the logistics and planning out an experiment, from how many multi-well plates to use and where to dispense each reagent, to which reagents to batch together and how much volume to dispense. These logistics are especially challenging in the case of high-throughput assays where you may have tens of thousands of experiments to manage and keep track of. 
+PlatePlan is the bridge between your hypotheses and results. In order to make that jump, a lot goes into the logistics and planning out an experiment, from how many multi-well plates to use and where to dispense each reagent, to which reagents to batch together and how much volume to dispense. These logistics are especially challenging in the case of high-throughput assays where you may have tens of thousands of experiments to manage and keep track of. 
 
 PlatePlan takes some of that burden away from the experimenter by handling those logistics for you. It has been tailored to our lab's set up ([Jensen Lab, UIUC](http://www.jensenlab.net)) to take advantage of the [Formulatrix Mantis](https://formulatrix.com/liquid-handling-systems/mantis-liquid-handler/) liquid handling robot for combinatorial bacteria growth assays, but can be adapted to fit another use case with relative ease. 
 
