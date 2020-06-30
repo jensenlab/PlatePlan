@@ -13,18 +13,18 @@ You can refer to **[Running an Experiment](#running-an-experiment)** for more de
 1. Clone this repo using `git clone https://github.com/jensenlab/PlatePlan.git`
 2. run `cd PlatePlan` to enter the directory
 3. You need a Pipenv virtual environment for this project
-	2.1. Install [pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html), a Python virtual environment manager 
-	2.2. run `pipenv --python 3.6` in the root project directory to initialize a Pipenv environment
-	2.3. run `pipenv install` in the root project directory to install the required dependencies
-	2.4. run `pipenv shell` in the root project directory to enter the virtual environment. You should see a `(PlatePlan)` prefix in the terminal to indicate you are in a virtual environment
+	* 2.1. Install [pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html), a Python virtual environment manager 
+	* 2.2. run `pipenv --python 3.6` in the root project directory to initialize a Pipenv environment
+	* 2.3. run `pipenv install` in the root project directory to install the required dependencies
+	* 2.4. run `pipenv shell` in the root project directory to enter the virtual environment. You should see a `(PlatePlan)` prefix in the terminal to indicate you are in a virtual environment
 4. A copy of [Gurobi optimizer](https://www.gurobi.com/) must be installed in your environment, with the [Python interface](https://www.gurobi.com/documentation/quickstart.html) set up
-	4.1. Install Gurobi on your computer and activate the license. Once this is completed, set up the Python interface for the Pipenv virtual environment below
-	4.2. In the `(PlatePlan)` virtual environment, run `which python` and copy this path
-	4.3. `cd` to the install location of your Gurobi install. On Linux it might be similar to `/opt/gurobi811/`
-	4.4. `cd linux64`
-	4.5. Paste your copied path from Step 4.2 `[copied Python path] setup.py install`. Depending on your path location, you may need elevated permissions. If so, add `sudo` before the command
-	4.6. If necessary (Linux), set up your environment variables according to the Quickstart Guide in Step 4
-	4.7 To test if it installed correctly, run `python` to start a Python shell in your terminal. Then run `import gurobipy`. If there are no errors, the Gurobi interface has installed successfully!
+	* 4.1. Install Gurobi on your computer and activate the license. Once this is completed, set up the Python interface for the Pipenv virtual environment below
+	* 4.2. In the `(PlatePlan)` virtual environment, run `which python` and copy this path
+	* 4.3. `cd` to the install location of your Gurobi install. On Linux it might be similar to `/opt/gurobi811/`
+	* 4.4. `cd linux64`
+	* 4.5. Paste your copied path from Step 4.2 `[copied Python path] setup.py install`. Depending on your path location, you may need elevated permissions. If so, add `sudo` before the command
+	* 4.6. If necessary (Linux), set up your environment variables according to the Quickstart Guide in Step 4
+	* 4.7 To test if it installed correctly, run `python` to start a Python shell in your terminal. Then run `import gurobipy`. If there are no errors, the Gurobi interface has installed successfully!
 5. You are ready to make your first PlatePlan protocol
 # Structure
 In order to define an experiment, the user needs to define the input Ingredients: Solutions, Reagents, and Stocks. Stocks represent the physical analog of Solutions which are virtual themselves. Solutions can consist of single or multiple reagents, as long as you define a concentration for each. 
