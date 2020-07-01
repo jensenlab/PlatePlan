@@ -303,3 +303,5 @@ Please reach out if you use this software to software@jensenlab.net, we'd love t
 
 # Usage Policy/License
 This software is provided to you with no guarantees under the standard MIT License.
+
+Feel free to submit issues or leave feedback and we'll try to address them, or submit a pull request if you have any additions to make.
